@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
+title: "Joe Roskopf"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+atom_feed:
+  hide: true
+
+
+footer:
+  links:
+    - label: "Twitter"
+      url: "https://twitter.com/JosephRoskopf"
+    - label: "GitHub"
+      url: "https://github.com/j-roskopf"
+    - label: "Steam"
+      url: "https://steamcommunity.com/id/joebrothehobo"
